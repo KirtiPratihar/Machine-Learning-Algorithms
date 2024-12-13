@@ -34,6 +34,7 @@ Highly effective for image recognition, natural language processing, etc.
 Unsupervised learning works with unlabeled data, where the system tries to find hidden patterns or structure.
 
 Examples of Algorithms:
+
 1)K-Means Clustering:
 Groups data points into clusters based on similarity.
 Widely used for market segmentation, document clustering, etc.
