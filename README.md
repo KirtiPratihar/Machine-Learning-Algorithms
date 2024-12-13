@@ -1,6 +1,6 @@
 # Machine Learning Algorithms Repository
 
-Welcome to the **Machine Learning Algorithms Repository**! 🚀 This repository is a comprehensive collection of fundamental machine-learning algorithms implemented with the help  of Python.
+Welcome to the Machine Learning Algorithms Repository! 🚀 This repository is a comprehensive collection of fundamental machine-learning algorithms implemented in Python.
 
 **1. Supervised Learning**
 Supervised learning involves training a model using labeled data, where the input-output mapping is known. The goal is to predict the output for new, unseen inputs.
