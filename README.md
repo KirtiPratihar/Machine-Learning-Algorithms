@@ -29,3 +29,23 @@ Effective for high-dimensional spaces and complex boundaries.
 6)Neural Networks:
 Composed of interconnected nodes (neurons) that mimic the human brain.
 Highly effective for image recognition, natural language processing, etc.
+
+**2. Unsupervised Learning**
+Unsupervised learning works with unlabeled data, where the system tries to find hidden patterns or structure.
+
+Examples of Algorithms:
+1)K-Means Clustering:
+Groups data points into clusters based on similarity.
+Widely used for market segmentation, document clustering, etc.
+
+2)Hierarchical Clustering:
+Creates a tree-like structure (dendrogram) for grouping data.
+Useful for visualizing relationships between clusters.
+
+3)Principal Component Analysis (PCA):
+Reduces the dimensionality of data while retaining important information.
+Often used for data visualization and noise reduction.
+
+4)DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
+Identifies clusters based on density.
+Handles noise and outliers well.
